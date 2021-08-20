@@ -1,0 +1,26 @@
+{
+  "name": "bvarta",
+  "version": "1.0.0",
+  "description": "marker apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/om3x/marker.git"
+  },
+  "keywords": [
+    "marker"
+  ],
+  "author": "najmuddin amrin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/om3x/marker/issues"
+  },
+  "homepage": "https://github.com/om3x/marker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "install": "^0.13.0"
+  }
+}
